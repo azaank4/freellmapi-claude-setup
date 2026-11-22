@@ -1,0 +1,19 @@
+# Cloned upstream project (setup.ps1 re-clones it)
+freellmapi/
+
+# Anything that can hold secrets or machine-specific state
+claude-config/
+workspace/
+.unified-key.dpapi
+*.dpapi
+*.log
+*.bak*
+.env
+.env.*
+*.key
+.encryption-key
+*.db
+*.db-*
+server/data/
+data/
+node_modules/

@@ -1,0 +1,29 @@
+{
+  "theme": "auto",
+  "permissions": {
+    "defaultMode": "acceptEdits",
+    "allow": [
+      "mcp__playwright",
+      "mcp__firecrawl",
+      "mcp__notion",
+      "Read",
+      "Glob",
+      "Grep",
+      "Bash(ls:*)",
+      "Bash(dir:*)",
+      "Bash(pwd)",
+      "Bash(cat:*)",
+      "Bash(type:*)",
+      "Bash(echo:*)",
+      "Bash(head:*)",
+      "Bash(tail:*)",
+      "Bash(wc:*)",
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)",
+      "Bash(node --version)",
+      "Bash(npm --version)",
+      "Bash(python --version)"
+    ]
+  }
+}
